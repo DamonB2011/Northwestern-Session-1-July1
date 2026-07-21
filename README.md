@@ -77,7 +77,7 @@ Angling the nozzle slightly off the rocket's centerline redirected a bit of the 
 
 ## Files in This Repo
 
-- `rocket123.SLDPRT`, `rocket (improved).SLDPRT` — rocket body iterations
+- `rocket123.SLDPRT`, `rocket (improved).SLDPRT` - rocket body iterations
 - `rocket nozzle.SLDPRT` — nozzle part file
 - `Rocket Model 1-2.jpeg` — rendered rocket body views
 - `Rocket Nozzle 1-3.jpeg` — nozzle design and simulation views
