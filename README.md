@@ -78,9 +78,9 @@ Angling the nozzle slightly off the rocket's centerline redirected a bit of the 
 ## Files in This Repo
 
 - `rocket123.SLDPRT`, `rocket (improved).SLDPRT` - rocket body iterations
-- `rocket nozzle.SLDPRT` — nozzle part file
-- `Rocket Model 1-2.jpeg` — rendered rocket body views
-- `Rocket Nozzle 1-3.jpeg` — nozzle design and simulation views
-- `Dynamic Fluid Rocket Model 1.MOV`, `Dynamic Fluid Rocket Model 2-7.jpeg` — Flow Simulation results, fluid dynamics visualization
-- `Low-Poly Rocket Model 1 2.jpeg` — low-poly reference/render
-- `Stress Rocket 1.jpeg`, `Stress Rocket 2-3.MOV` — stress test results on the nose tip junction
+- `rocket nozzle.SLDPRT` - nozzle part file
+- `Rocket Model 1-2.jpeg` - rendered rocket body views
+- `Rocket Nozzle 1-3.jpeg` - nozzle design and simulation views
+- `Dynamic Fluid Rocket Model 1.MOV`, `Dynamic Fluid Rocket Model 2-7.jpeg` - Flow Simulation results, fluid dynamics visualization
+- `Low-Poly Rocket Model 1 2.jpeg` - low-poly reference/render
+- `Stress Rocket 1.jpeg`, `Stress Rocket 2-3.MOV` - stress test results on the nose tip junction
